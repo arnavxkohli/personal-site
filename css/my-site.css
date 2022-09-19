@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 1;
+  font-size: 4rem;
+  color: #EE6983;
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.75rem;
+  color: #7FBCD2;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  color:#9FC9F3;
+}
+
+.top-container{
+  background: #F5EDDC;
+  position: relative;
+  padding-bottom: 0;
+  padding-top: 100px;
+}
+
+.student{
+  text-decoration: underline;
+}
+
+.mountain{
+  padding: 0;
+}
+
+
+.skill-row{
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill{
+  margin-right: 30px;
+  float: left;
+  width:35%;
+}
+
+.web{
+  margin-left: 15px;
+  float: right;
+  width:20%;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.me{
+  width: 50%;
+}
+
+.bottom-container{
+  padding: 20px 0 10px 0;
+  background: #EFEFEF;
+} 
+
+.main{
+  width:25%;
+}
+
+.footer-link{
+  padding-bottom: 60px;
+  width: 3%;
+  margin:0 50px 0 50px;
+  text-align: center;
+}
+
+.btn{
+  width:3%;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.subtext{
+  color: #FF9494;
+}
+
+
+
+
+
